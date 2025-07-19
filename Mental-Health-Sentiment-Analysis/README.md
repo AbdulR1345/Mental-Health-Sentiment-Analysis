@@ -9,7 +9,7 @@ Mental health discussions on social media reflect public awareness, stigma, and 
 ## 📂 Dataset
 
 - Source: Kaggle / Reddit
-- File Used: `depression_dataset_reddit_cleaned.csv`
+- File Used: `depression_dataset_reddit_cleaned.csv`, `sentiment_data.csv`
 - Columns: `clean_text`, `is_depression`, `sentiment_score`, `sentiment_label`
 
 ## 🧪 Tasks Performed
