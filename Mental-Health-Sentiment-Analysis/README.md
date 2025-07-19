@@ -25,9 +25,9 @@ Mental health discussions on social media reflect public awareness, stigma, and 
 ### 3. Power BI Dashboard
 - Created visualizations for:
   - Sentiment Distribution
-  - Count of Depression-related Posts
-  - Top Keywords and Phrases
-  - Sentiment vs Depression
+  - Sentiment label
+  - average sentiment score
+  - Sentiment count
 
 ### 4. Reporting
 - Created a full professional project report
@@ -45,10 +45,10 @@ Mental health discussions on social media reflect public awareness, stigma, and 
 
 ## 📸 Sample Visuals
 
-![Dashboard Screenshot](images/dashboard_screenshots.png)
+![Dashboard Screenshot](https://github.com/AbdulR1345/Mental-Health-Sentiment-Analysis/blob/main/Mental-Health-Sentiment-Analysis/images/dashboard_screenshot.png?raw=true)
 
 ## 📄 Report
-Check the full report in [`/report`](report/Project_Report_Mental_Health_Sentiment_Analysis.pdf)
+Check the full report in [`/report`](https://github.com/AbdulR1345/Mental-Health-Sentiment-Analysis/blob/main/Mental-Health-Sentiment-Analysis/report/Project_Report_Mental_Health_Sentiment_Analysis.pdf)
 
 ---
 
@@ -72,4 +72,4 @@ This project bridges the gap between social data and mental health insights. It 
 ## ✨ Author
 
 **Abdul Rahaman**  
-Connect with me on [LinkedIn](https://linkedin.com/in/yourprofile)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-rahaman-14b183320/)
